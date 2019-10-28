@@ -3,14 +3,12 @@
 [![License](https://img.shields.io/cocoapods/l/EachNavigationBar.svg?style=flat)](http://cocoapods.org/pods/EachNavigationBar)
 [![Platform](https://img.shields.io/cocoapods/p/EachNavigationBar.svg?style=flat)](https://cocoapods.org/pods/EachNavigationBar)
 
-注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。
-注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。
-注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。
+注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。注意，该版本为原作者EachNavigationBar （https://github.com/Pircate/EachNavigationBar） V1.11.0 版本进行修改。
 
-（该版本只在1.11.0上修改了对iOS13的支持，原作者后续的特性更新没有该副本是没有的，如需使用新特性，请移步上面GitHub原作者地址，使用最新版本。谢谢。）
-（如有侵权，及时联系，我马上删除，谢谢）
+-------（该版本只在1.11.0上修改了对iOS13的支持，原作者后续的特性更新没有该副本是没有的，如需使用新特性，请移步上面GitHub原作者地址，使用最新版本。谢谢。）（如有侵权，及时联系，我马上删除，谢谢）
 
-由于原作者在1.11.0之后发布的版本移除了对OC的支持，后续版本不支持OC进行编译，只支持swift，由于此前我接入该项目时候使用的是OC，所以只能在版本上停留在1.11.0，由于iOS13的更新，1.11.0使用会Crash，所以修改了原1.11.0代码，使项目支持iOS13。
+
+   由于原作者在1.11.0之后发布的版本移除了对OC的支持，后续版本不支持OC进行编译，只支持swift，由于此前我接入该项目时候使用的是OC，所以只能在版本上停留在1.11.0，由于iOS13的更新，1.11.0使用会Crash，所以修改了原1.11.0代码，使项目支持iOS13。
 
 ## Example
 
