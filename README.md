@@ -34,7 +34,7 @@ it, simply add the following line to your Podfile or Cartfile:
 pod 'EachNavigationBar'
 
 //使用修改版 
-pod 'EachNavigationBar' :git => 'https://github.com/kingjiajie/EachNavigationBar_Objc.git' 
+pod 'EachNavigationBar_Objc'
 ```
 
 ## Overview
