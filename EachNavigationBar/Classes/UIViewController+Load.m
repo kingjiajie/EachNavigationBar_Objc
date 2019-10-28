@@ -6,7 +6,7 @@
 //  Copyright © 2018年 Pircate. All rights reserved.
 //
 
-#import <EachNavigationBar/EachNavigationBar-Swift.h>
+#import <EachNavigationBar_Objc/EachNavigationBar_Objc-Swift.h>
 
 @implementation UIViewController (Load)
 
